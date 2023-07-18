@@ -21,6 +21,6 @@ I'm always open to connecting with fellow developers and engaging in meaningful 
 
 - GitHub: [github.com/MutisoMuli](https://github.com/MutisoMuli)
 - LinkedIn: [linkedin.com/in/mutisomuli](https://www.linkedin.com/in/mutisomuli)
-- Email: your-mulimutiso525@gmail.com
+- Email: mulimutiso525@gmail.com
 
 Let's collaborate and create something awesome together!
