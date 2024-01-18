@@ -7,5 +7,5 @@ I'm a passionate software developer with a strong interest in web development an
 - 🌱 I’m currently learning React and Node.js.
 - 👯 I’m looking to collaborate on open-source projects or interesting web development initiatives.
 - 💬 Ask me about JavaScript, HTML/CSS, and front-end development.
-- ⚡ Fun fact: I'm also an avid traveler and a coffee enthusiast!
+- ⚡ Fun fact: I'm also an avid traveler, coffee enthusiast and growing bonsai trees 😜!
 
