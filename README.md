@@ -1,5 +1,5 @@
-## Hi, I'm Mutiso Muli
-# I develop robust, scalable applications and secure API's for Enterprise platforms.
+# Hi, I'm Mutiso Muli
+## I develop robust, scalable applications and secure API's for Enterprise platforms.
 
 [![OOP badge](https://github.com/Innocentsax/Innocentsax/blob/main/OOP%20badge%20Award.png)](https://www.educative.io/assessments/object-oriented-programming-in-java)[![Algo_badge](https://github.com/Innocentsax/Innocentsax/blob/main/Screenshot%202023-09-02%20at%2010.49.37%20PM.png)](https://www.educative.io/assessments/data-structures-and-algorithms-fundamentals)
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, C-Programming and Python**
 
-- 👨‍💻 All of my projects are available at [HackerRank](https://www.hackerrank.com/innocentcharles2?hr_r=1)
+- 👨‍💻 All of my projects are available at [HackerRank](https://www.hackerrank.com/profile/mulimutiso525)
 
 - 💬 Ask me about **Any topic in Java, C-programming and Python**
 
