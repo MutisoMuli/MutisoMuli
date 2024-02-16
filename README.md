@@ -1,7 +1,7 @@
 # Hi, I'm Mutiso Muli
 ## I develop robust, scalable applications and secure API's for Enterprise platforms.
 
-[![OOP badge](https://github.com/Innocentsax/Innocentsax/blob/main/OOP%20badge%20Award.png)](https://www.educative.io/assessments/object-oriented-programming-in-java)[![Algo_badge](https://github.com/Innocentsax/Innocentsax/blob/main/Screenshot%202023-09-02%20at%2010.49.37%20PM.png)](https://www.educative.io/assessments/data-structures-and-algorithms-fundamentals)
+[![OOP badge](https://github.com/MutisoMuli/MutisoMuli/blob/main/OOP%20badge%20Award.png)](https://www.educative.io/assessments/object-oriented-programming-in-java)[![Algo_badge](https://github.com/Innocentsax/Innocentsax/blob/main/Screenshot%202023-09-02%20at%2010.49.37%20PM.png)](https://www.educative.io/assessments/data-structures-and-algorithms-fundamentals)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocentsax&label=Profile%20views&color=0e75b6&style=flat" alt="innocentsax" /> </p>
 
