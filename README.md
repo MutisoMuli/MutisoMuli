@@ -13,13 +13,13 @@
 
 - 💬 Ask me about **Any topic in Java, C-programming and Python**
 
-- 📫 How to reach me **[Email](innocentcharlesudo@gmail.com), [Whatsapp number](https://wa.me/qr/3KRXFJ7Q624CJ1)**
+- 📫 How to reach me **[Email](mulimutiso525@gmail.com), [Whatsapp number](https://wa.me/+254757682485)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/innocentsax?t=wvammjwu0mx0mg9whr24mg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/innocentsax?t=wvammjwu0mx0mg9whr24mg&s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/udo-innocent-charles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udo-innocent-charles" height="30" width="40" /></a>
-<a href="https://instagram.com/saxinnocent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saxinnocent" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/https://twitter.com/MutisoMuli_PE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/innocentsax?t=wvammjwu0mx0mg9whr24mg&s=09" height="30" width="40" /></a>
+<a href="https://linkedin.com/https://www.linkedin.com/in/mutiso-muli-706513279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udo-innocent-charles" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mutiso_muli_pe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saxinnocent" height="30" width="40" /></a>
 </p>
 
 <img alt="writing codes" width='1300' height='500' align="center" src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47o2ggol62o8sbe63ur5tr90j2vv3z7cs7am4if89k&rid=giphy.gif&ct=g">
