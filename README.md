@@ -1,11 +1,11 @@
 # Hi, I'm Mutiso Muli
 ## I develop robust, scalable applications and secure API's for Enterprise platforms.
 
-[![OOP badge](https://github.com/MutisoMuli/MutisoMuli/blob/main/OOP%20badge%20Award.png)](https://www.educative.io/assessments/object-oriented-programming-in-java)[![Algo_badge](https://github.com/Innocentsax/Innocentsax/blob/main/Screenshot%202023-09-02%20at%2010.49.37%20PM.png)](https://www.educative.io/assessments/data-structures-and-algorithms-fundamentals)
+[![OOP badge](https://github.com/MutisoMuli/MutisoMuli/blob/main/OOP%20badge%20Award.png)](https://www.educative.io/assessments/object-oriented-programming-in-java)[![Algo_badge](https://github.com/MutisoMuli/MutisoMuli/blob/main/Screenshot%202023-09-02%20at%2010.49.37%20PM.png)](https://www.educative.io/assessments/data-structures-and-algorithms-fundamentals)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocentsax&label=Profile%20views&color=0e75b6&style=flat" alt="innocentsax" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innocentsax" alt="innocentsax" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MutisoMuli" alt="MutisoMuli" /></a> </p>
 
 - 🌱 I’m currently learning **Java, C-Programming and Python**
 
