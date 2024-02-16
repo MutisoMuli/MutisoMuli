@@ -12,4 +12,3 @@ I'm a passionate software developer with a strong interest in web development an
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MutisoMuli)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MutisoMuli)](https://github.com/ryo-ma/github-profile-trophy)
