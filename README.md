@@ -1,26 +1,7 @@
-<img src="https://github.com/Innocentsax/Innocentsax/blob/main/InnocentUdo_portfolio.png">
-
-<!--[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Full+Stack+Java+Developer+)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm UDO INNOCENT CHARLES</h1>
-<h3 align="left">A passionate Full Stack developer from Nigeria</h3>
-
-<img src="https://github.com/Innocentsax/Innocentsax/blob/main/Algo_badge_Award.png" height="300"> <img src="https://github.com/Innocentsax/Innocentsax/blob/main/OOP%20badge%20Award.png" height="320"> -->
+## Hi, I'm Mutiso Muli
+# I develop robust, scalable applications and secure API's for Enterprise platforms.
 
 [![OOP badge](https://github.com/Innocentsax/Innocentsax/blob/main/OOP%20badge%20Award.png)](https://www.educative.io/assessments/object-oriented-programming-in-java)[![Algo_badge](https://github.com/Innocentsax/Innocentsax/blob/main/Screenshot%202023-09-02%20at%2010.49.37%20PM.png)](https://www.educative.io/assessments/data-structures-and-algorithms-fundamentals)
-
-
-
-## My Portfolio 👇
- + #  ___[Standard Portfolio](https://innocentsax.netlify.app)___
- + #  ___[My_3D_Amazing_Portfolio](https://innocentudo.netlify.app/)___
- + #  ___[My_Simple_Portfolio](https://udoinnocent.netlify.app/)___
-
-<!--
-<img align="left" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
-
-<img align="" width="1000" height="100" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
--->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocentsax&label=Profile%20views&color=0e75b6&style=flat" alt="innocentsax" /> </p>
 
