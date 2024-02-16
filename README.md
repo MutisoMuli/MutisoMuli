@@ -9,3 +9,4 @@ I'm a passionate software developer with a strong interest in web development an
 - 💬 Ask me about JavaScript, HTML/CSS, and front-end development.
 - ⚡ Fun fact: I'm also an avid traveler, coffee enthusiast and growing bonsai trees 😜!
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MutisoMuli)](https://github.com/ryo-ma/github-profile-trophy)
