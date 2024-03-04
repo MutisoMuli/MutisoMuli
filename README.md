@@ -1,5 +1,5 @@
-## Mutiso Muli
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=SoftwareEngineer%2C+Full-Stack%2BWeb%2BDevelop%2C+Student%2C+Coffee+Enthusiast+)](https://git.io/typing-svg)
+# Mutiso Muli
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer;Full-Stack+Web+Developer;Student;Coffee+Enthusiast)](https://git.io/typing-svg)
 [![OOP badge](https://github.com/MutisoMuli/MutisoMuli/blob/main/OOP%20badge%20Award.png)](https://www.educative.io/assessments/object-oriented-programming-in-java)[![Algo_badge](https://github.com/MutisoMuli/MutisoMuli/blob/main/Screenshot%202023-09-02%20at%2010.49.37%20PM.png)](https://www.educative.io/assessments/data-structures-and-algorithms-fundamentals)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocentsax&label=Profile%20views&color=0e75b6&style=flat" alt="innocentsax" /> </p>
