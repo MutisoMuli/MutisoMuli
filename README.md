@@ -1,5 +1,5 @@
 # Hi, I'm Mutiso Muli
- ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&w    idth=500&lines=+Software+Engineer;Full-Stack+Web+Developer;Coffee+Enthusiast)](https://git.io/ty    ping-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&w    idth=500&lines=+Software+Engineer;Full-Stack+Web+Developer;Coffee+Enthusiast)](https://git.io/ty    ping-svg)
 
 [![OOP badge](https://github.com/MutisoMuli/MutisoMuli/blob/main/OOP%20badge%20Award.png)](https://www.educative.io/assessments/object-oriented-programming-in-java)[![Algo_badge](https://github.com/MutisoMuli/MutisoMuli/blob/main/Screenshot%202023-09-02%20at%2010.49.37%20PM.png)](https://www.educative.io/assessments/data-structures-and-algorithms-fundamentals)
 
